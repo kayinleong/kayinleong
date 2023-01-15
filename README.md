@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Kayin, a student studying in Tunku Abdul Rahman University of Management and Technology (TAR UMT).</div>  
   
-- 🌐 [My Linktree (Personal portfolio inside!)](linktr.ee/kayinleong)
+- 🌐 [My Linktree (Personal portfolio inside!)](https://linktr.ee/kayinleong)
 
 - 🚀 Full Stack Web Developer  
 
