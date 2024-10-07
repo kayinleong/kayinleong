@@ -10,7 +10,7 @@
 - 🚀 Full Stack Web Developer  
 
 - 📖 Diploma in Information Technology
-- 📖 Bachelor of Information Technology (Honours) in Information Technology
+- 📖 Bachelor of Information Technology (Honours) in Information Security
   
 
 <br/>  
